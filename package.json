@@ -1,0 +1,28 @@
+{
+  "name": "@inf3rno/testing",
+  "version": "0.0.1",
+  "description": "my testing library",
+  "keywords": [
+    "testing",
+    "test",
+    "javascript"
+  ],
+  "license": "MIT",
+  "author": "László Lajos Jánszky",
+  "repository": {
+    "url": "https://github.com/inf3rno/testing"
+  },
+  "bugs": {
+    "url": "https://github.com/inf3rno/testing/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}

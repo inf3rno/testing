@@ -1,4 +1,4 @@
-import lib from "./lib.js";
+import library from "./library.js";
 import assert from "assert";
 
-assert.equal(lib.dummy(), true);
+assert.equal(library.dummy(), true);

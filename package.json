@@ -19,7 +19,7 @@
     "access": "public"
   },
   "type": "module",
-  "main": "./lib/index.js",
+  "main": "./library/index.js",
   "scripts": {
     "test": "node ./test"
   },
